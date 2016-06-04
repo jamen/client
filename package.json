@@ -4,11 +4,14 @@
   "description": "A desktop client for SoundCove.",
   "main": "index.js",
   "scripts": {
-    "start": "",
-    "test": ""
+    "start": "electron .",
+    "test": "electron ."
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/soundcove/client"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.1"
   }
 }
