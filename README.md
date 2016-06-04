@@ -1,2 +1,2 @@
 # client
-A desktop client for SoundCove
+> A desktop client for SoundCove
