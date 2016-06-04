@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "description": "A desktop client for SoundCove.",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soundcove/client"
+  }
+}
